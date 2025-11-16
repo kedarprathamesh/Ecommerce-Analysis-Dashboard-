@@ -4,7 +4,6 @@ Absolutely! Here's your updated GitHub description with a dedicated section for 
 
 ## 🛒 Ecommerce Sales Analysis Dashboard
 
----
 ### 📸 Dashboard Snapshot
 
 ![Ecommerce Sales Dashboard](https://github.com/kedarprathamesh/Ecommerce-Analysis-Dashboard-/blob/main/Ecommerce%20Analysis%20Snapshot.png)
