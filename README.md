@@ -4,6 +4,15 @@ Absolutely! Here's your updated GitHub description with a dedicated section for 
 
 ## 🛒 Ecommerce Sales Analysis Dashboard
 
+---
+### 📸 Dashboard Snapshot
+
+![Ecommerce Sales Dashboard](https://github.com/kedarprathamesh/Ecommerce-Analysis-Dashboard-/blob/main/Ecommerce%20Analysis%20Snapshot.png)
+
+*This snapshot showcases key metrics and visualizations including sales trends, category performance, and regional distribution.*
+
+---
+
 This interactive Power BI dashboard provides a comprehensive overview of ecommerce performance across key metrics, categories, and geographies. Designed for data-driven decision-making, it enables stakeholders to monitor trends, identify growth opportunities, and optimize product strategies.
 
 ### 🔍 Key Features
@@ -31,13 +40,5 @@ This interactive Power BI dashboard provides a comprehensive overview of ecommer
 - Category analysts optimizing product mix  
 - Regional teams identifying high-performing states  
 - Executives reviewing profitability trends
-
----
-
-### 📸 Dashboard Snapshot
-
-![Ecommerce Sales Dashboard](https://github.com/kedarprathamesh/Ecommerce-Analysis-Dashboard-/blob/main/Ecommerce%20Analysis%20Snapshot.png)
-
-*This snapshot showcases key metrics and visualizations including sales trends, category performance, and regional distribution.*
 
 ---
